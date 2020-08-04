@@ -1,4 +1,4 @@
-<h1 id="hello-world">Hello, World!</h1><h2 id="xedit-me">xEdit Me!</h2><p>Open <code>source/documentation/index.md</code> in your favourite text editor and start editing!</p>
+<h1 id="hello-world">Hello, World!</h1><h2 id="edit-me">Edit Me!</h2><p>Open <code>source/documentation/index.md</code> in your favourite text editor and start editing!</p>
 <p>You can write content in <a href="https://daringfireball.net/projects/markdown/">Markdown</a> using <strong>all</strong> of the <em>usual</em> syntax that you&rsquo;re used to!</p>
 <p>This means you can use things like tables:</p>
 <div class="table-container">
